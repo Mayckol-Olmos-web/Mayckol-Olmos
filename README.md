@@ -43,5 +43,5 @@ A Python application that converts numbers between different numeral systems.
 - Contribute to open-source projects
 
 Feel free to connect with me on LinkedIn.
-linkedin.com/in/mayckol-olmos-277739363
+-linkedin.com/in/mayckol-olmos-277739363
 
