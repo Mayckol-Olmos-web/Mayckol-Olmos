@@ -42,6 +42,6 @@ A Python application that converts numbers between different numeral systems.
 - Build real-world applications
 - Contribute to open-source projects
 
-Feel free to connect with me on LinkedIn.
--linkedin.com/in/mayckol-olmos-277739363
+## Contact
 
+- LinkedIn: https://www.linkedin.com/in/tu_usuario/
