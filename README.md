@@ -44,4 +44,4 @@ A Python application that converts numbers between different numeral systems.
 
 ## Contact
 
-- LinkedIn: linkedin.com/in/mayckol-olmos-277739363
+- LinkedIn: https://www.linkedin.com/in/mayckol-olmos-277739363/
